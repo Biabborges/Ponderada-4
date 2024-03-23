@@ -1,6 +1,6 @@
 **Caso de Teste: Criar uma Nova Categoria**
 
-**Os aquivo está localizado em `C:\Users\Inteli\Documents\GitHub\Ponderada-4\src\backend\ponderada.testes.automatizados\teste.automatizado.spec.ts`
+**Os aquivo está localizado em:**`C:\Users\Inteli\Documents\GitHub\Ponderada-4\src\backend\ponderada.testes.automatizados\teste.automatizado.spec.ts`
 
 **Objetivo:**
 Verificar se é possível criar uma nova categoria com sucesso usando o endpoint de criar categorias do projeto.
